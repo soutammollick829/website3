@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.frist-section{
+    background-image: url(./photo1/411946.jpg);
+    background-position: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding: 100px;
+    text-align:left;
+    
+    
+}
+.frist-section h2{
+    font-size: 45px;
+    font-family: monospace;
+    color:brown
+
+}
+
+.frist-section p{
+    font-size: 25px;
+    font-family: cursive;
+    color: darkgreen;
+   
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    color:#fff;
+    background-color:darkgreen;
+    border-radius: 5px;
+    border: 1px solid tomato;
+
+}
+.btn:hover{
+    color:#000;
+    background-color: tomato;
+    
+}
+.about{
+    padding-top: 25px;
+    text-align: center;
+    color: #000;
+}
+.page-about{
+    color: blue;
+
+}
